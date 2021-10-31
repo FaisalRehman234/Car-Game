@@ -1,2 +1,2 @@
 # Car-Game
-Collaburate with me and help me learn game development
+Collaburate and help me and you learn game development!
